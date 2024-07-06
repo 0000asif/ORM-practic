@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Asif Hossain",
+    "email": "asif@gmail.com",
+    "age": "20",
+    "city": "Sirajgonj"
+  },
+  {
+    "name": "Anamul",
+    "email": "anamul@gmail.com",
+    "age": "22",
+    "city": "Dhaka"
+  },
+  {
+    "name": "Afrin Khatun",
+    "email": "afrin@gmail.com",
+    "age": "14",
+    "city": "Belkuci"
+  },
+  {
+    "name": "Abusama Sarkar",
+    "email": "abusama@gmail.com",
+    "age": "56",
+    "city": "Munsigonj"
+  },
+  {
+    "name": "Bilkis Begum",
+    "email": "bilkis@gmail.com",
+    "age": "48",
+    "city": "Shajatpur"
+  },
+  {
+    "name": "Jhon Doe",
+    "email": "jhon@gmail.com",
+    "age": "28",
+    "city": "London"
+  },
+  {
+    "name": "Jame Doe",
+    "email": "jame@gmail.com",
+    "age": "35",
+    "city": "Cape town"
+  }
+  
+]
